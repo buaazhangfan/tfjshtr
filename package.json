@@ -1,6 +1,6 @@
 {
   "name": "tfjshtr",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "The tensorflow.js pretrained model configuration and weights data binary files for handwriting text recognition",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   "license": "MIT",
   "repository": {
       "type": "git",
-      "url": "https://github.com/naptha/tesseract.js.git"
+      "url": "https://github.com/buaazhangfan/tfjshtr.git"
   },
-  "homepage": "https://github.com/naptha/tesseract.js"
+  "homepage": "https://github.com/buaazhangfan/tfjshtr"
 }
