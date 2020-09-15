@@ -1,6 +1,6 @@
 {
   "name": "tfjshtr",
-  "version": "1.1.1",
+  "version": "1.2.1",
   "description": "The tensorflow.js pretrained model configuration and weights data binary files for handwriting text recognition",
   "main": "index.js",
   "scripts": {
